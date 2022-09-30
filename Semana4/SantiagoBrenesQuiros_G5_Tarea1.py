@@ -1,5 +1,6 @@
 """
     Tarea #1
+    Link github: https://github.com/SantiagoBrenes12/progra-u/blob/main/Semana4/SantiagoBrenesQuiros_G5_Tarea1.py
 """
 
 CCSS_CONTRIBUTION = 0.09
