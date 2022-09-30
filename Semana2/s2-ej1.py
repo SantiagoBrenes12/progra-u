@@ -1,21 +1,20 @@
-
 # Ejercicio 1: Orden inverso
 a = 1
-b = 2 
+b = 2
 c = 3
 d = 4
 
-print(d,c,b,a, sep='\n')
+print(d, c, b, a, sep="\n")
 
 
-#Ejercicio 2: IVA a monto
+# Ejercicio 2: IVA a monto
 IVA = 0.13
 monto = 20000
 
-print(f'El IVA de {monto} es {monto*IVA}')
+print(f"El IVA de {monto} es {monto*IVA}")
 
 
-#Ejercicio 3:
+# Ejercicio 3:
 """
  Elabore un programa que solicite al usuario la edad y calcule cuántos años 
     tendrá la persona en 5 años, al finalizar se imprime el siguiente mensaje 
@@ -29,7 +28,7 @@ print(f'El IVA de {monto} es {monto*IVA}')
 # print(f'{nombre} Usted dentro de 5 años, tendrá: {edad_final} años')
 
 
-#Ejercicio 4:
+# Ejercicio 4:
 """
 Construya un programa que le solicite al usuario
 los datos enteros A y B y muestre el resultado de la siguiente expresión : a+b**2 / 3
@@ -41,7 +40,7 @@ los datos enteros A y B y muestre el resultado de la siguiente expresión : a+b*
 
 # print(f'El resultado es: {resultado}')
 
-#Ejercicio 5:
+# Ejercicio 5:
 """
  Desarrolle un programa que le solicite un número al usuario y calcule el 
  cuadrado y el cubo de este.
@@ -53,7 +52,7 @@ los datos enteros A y B y muestre el resultado de la siguiente expresión : a+b*
 
 # print(f'El resultado al cuadrado es: {resultado_cuadrado}\nEl resultado al cubo es: {resultado_cubo}')
 
-#Ejercicio 6:
+# Ejercicio 6:
 """
  Realice un programa que, dada la base y la altura 
  de un rectángulo, calcule el área y el perímetro de este.
@@ -70,7 +69,7 @@ los datos enteros A y B y muestre el resultado de la siguiente expresión : a+b*
 # print(f'El area de su rectangulo es: {area}\nSu perimetro es {perimetro}')
 
 
-#Ejercicio 7:
+# Ejercicio 7:
 """
     Desarrolle un programa que solicite la distancia de su casa a la
     Universidad, el costo por kilómetro, la cantidad de días a la semana que 
@@ -79,7 +78,6 @@ los datos enteros A y B y muestre el resultado de la siguiente expresión : a+b*
     cuatrimestre tiene 15 semanas
 """
 
-distancia = int(input('Digite la distancia de su casa a la universidad en km'))
-costo_por_km = int(input('Di'))
-distancia = int(input('Digite la distancia de su casa a la universidad en km'))
-
+distancia = int(input("Digite la distancia de su casa a la universidad en km"))
+costo_por_km = int(input("Di"))
+distancia = int(input("Digite la distancia de su casa a la universidad en km"))
