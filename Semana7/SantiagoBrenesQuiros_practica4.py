@@ -1,5 +1,5 @@
 # Fizz buzz
-
+# link github: https://github.com/SantiagoBrenes12/progra-u/blob/main/Semana7/SantiagoBrenesQuiros_practica4.py
 
 numero = int(input("Ingrese un numero entre 1 y 20: "))
 
