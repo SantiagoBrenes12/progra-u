@@ -64,3 +64,6 @@ print(
     "",
     sep="\n",
 )
+
+
+# github: https://github.com/SantiagoBrenes12/progra-u/blob/main/Semana7/santiago_brenes_caso1.py
